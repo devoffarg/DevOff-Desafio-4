@@ -1,13 +1,26 @@
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
-# Desafío [número] - [fecha]
+# Desafío 4 - 23/08/2020
 
-[Descripción de desafío]
+¡Vamos a crear un cliente de chat, al estilo de #IRC, utilizando WebSockets!
+
+- Cuando se ingresa a la app, la persona usuaria deberá ingresar un nombre con el que se identificará en el chat.
+- Acto seguido, ingresa a una sala general donde todas las personas conectadas podrán intercambiar mensajes, indicando quién escribió el mensaje y qué mensaje envió.
+
+Se deberá implementar al menos una de las siguientes características extras:
+
+- Poder cambiar el nombre de la persona usuaria
+- Mostrar personas conectadas al chat
+- Enviar un mensaje privado a otra persona conectada al chat
+- Poder enviar una imagen desde la computadora de la persona
+- Poder mandar un mensaje usando Markdown y que se muestre con el formato correspondiente
 
 ## Condiciones del desafío
 
-⛔ Algo que NO se puede hacer
+⛔ No podrás utilizar servicios externos como Firebase 
 
-✅ Algo que se puede hacer
+✅ Para el backend, podrás utilizar cualquier lenguaje y librería que permita implementar WebSockets
+
+✅ Para el frontend, podrás incorporar un framework de CSS como Bootstrap o Materialize y una librería o framework de JavaScript
 
 ## 📚 Herramientas de consulta
 
@@ -28,7 +41,7 @@ Hacé un fork de este repo:
 Cloná tu fork, reemplazando `[TU_ALIAS]` con el nombre de tu cuenta de GitHub. Podés clonarlo utilizando la consola:
 
 ```
-git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-[NUMERO]
+git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-4
 ```
 
 También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
@@ -37,7 +50,7 @@ Cuando finalices la resolución del desafío, no olvides subir todos tus cambios
 
 ### Si no tenés una cuenta en GitHub
 
-[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-[NUMERO]/archive/master.zip).
+[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-4/archive/master.zip).
 
 Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/) o una carpeta compartida en Google Drive.
 
@@ -52,7 +65,7 @@ Ante cualquier consulta, podrás recurrir a nuestro [equipo de moderación](http
 ### Jurados
 
 - ¡Gracias a [Gonzalo Pozzo](https://twitter.com/goncy) y [Magalí Domínguez](https://twitter.com/printmaga) por ser nuestros jurados!
-- ¡Un agradecimiento especial a [Nombre del jurado invitado](https://twitter.com/@JuradoInvitado), el jurado invitado de esta edición!
+- ¡Un agradecimiento especial a [Nataya Flores](https://twitter.com/@natayafs), la jurado invitada de esta edición!
 
 ### Organizaciones aliadas
 
