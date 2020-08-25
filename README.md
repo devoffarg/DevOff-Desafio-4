@@ -64,7 +64,7 @@ Ante cualquier consulta, podrás recurrir a nuestro [equipo de moderación](http
 
 ### Jurados
 
-- ¡Gracias a [Gonzalo Pozzo](https://twitter.com/goncy) y [Magalí Domínguez](https://twitter.com/printmaga) por ser nuestros jurados!
+- ¡Gracias a [Gonzalo Pozzo](https://twitter.com/goncy) y [Johanna Santos](https://twitter.com/johannableu) por ser nuestros jurados!
 - ¡Un agradecimiento especial a [Nataya Flores](https://twitter.com/@natayafs), la jurado invitada de esta edición!
 
 ### Organizaciones aliadas
